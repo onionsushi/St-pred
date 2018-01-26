@@ -1,0 +1,125 @@
+{
+    "articles": [
+        {
+            "author": "BBC News", 
+            "description": "Palestinian protesters clash with Israeli forces amid rising tensions in the occupied West Bank.", 
+            "publishedAt": "2017-12-07T13:15:59Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "Palestinians rally over US Jerusalem move", 
+            "url": "http://www.bbc.co.uk/news/world-middle-east-42265337", 
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/51D6/production/_99105902_mediaitem99105901.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "He is the first Turkish head of state to visit Greece in 65 years but walked straight into a row.", 
+            "publishedAt": "2017-12-07T13:55:58Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "Tense start to Erdogan's Greece visit", 
+            "url": "http://www.bbc.co.uk/news/world-europe-42265260", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/129D0/production/_99104267_d31dbaed-0f10-45d7-b478-173fe6c6ceb7.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "The state's firefighters say they cannot effectively fight blazes in the current windy conditions.", 
+            "publishedAt": "2017-12-07T09:25:45Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "California fire burns Bel-Air mansions", 
+            "url": "http://www.bbc.co.uk/news/world-us-canada-42263237", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1631E/production/_99101909_hi043431576.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "The buyer of the former Japan emperor's WW2 memoir is accused of denying the holocaust.", 
+            "publishedAt": "2017-12-07T12:12:10Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "'Holocaust denier' buys Hirohito memoir", 
+            "url": "http://www.bbc.co.uk/news/world-asia-42248054", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D9D7/production/_99076755_90e31bab-5d13-4409-8adf-7bf147bb9658.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "US participation in the next winter Games is far from certain, says the US ambassador to the UN.", 
+            "publishedAt": "2017-12-07T12:48:06Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "US Olympics trip an 'open question'", 
+            "url": "http://www.bbc.co.uk/news/world-us-canada-42265568", 
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16530/production/_99104419_olympics.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "The FBI director says there is no finer institution after Mr Trump said its reputation was in tatters.", 
+            "publishedAt": "2017-12-07T16:38:41Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "FBI boss defends agency after Trump tirade", 
+            "url": "http://www.bbc.co.uk/news/world-us-canada-42270553", 
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p05qcx4h.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "Same-sex marriage will become legal in Australia after MPs passed a historic bill.", 
+            "publishedAt": "2017-12-07T10:09:39Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "The moment Australian MPs back gay marriage", 
+            "url": "http://www.bbc.co.uk/news/world-australia-42264928", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15266/production/_99103668_p05qbjj2.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "The DUP says there is \"work to be done\" and the Irish PM says the UK may put a plan forward later.", 
+            "publishedAt": "2017-12-07T05:39:39Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "May under pressure to break Brexit impasse", 
+            "url": "http://www.bbc.co.uk/news/uk-politics-42261967", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2648/production/_99100890_24621e88-0e42-4849-97a4-3d372d6dcf37.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "Police make an arrest after video circulated showing a Muslim man being hacked to death and burned.", 
+            "publishedAt": "2017-12-07T08:01:29Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "Arrest over brutal India killing video", 
+            "url": "http://www.bbc.co.uk/news/world-asia-india-42261797", 
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14244/production/_99100528_gettyimages-830939454.jpg"
+        }, 
+        {
+            "author": "BBC News", 
+            "description": "The president's son refused to answer questions about conversations with his father, Democrats say.", 
+            "publishedAt": "2017-12-07T16:29:33Z", 
+            "source": {
+                "id": "bbc-news", 
+                "name": "BBC News"
+            }, 
+            "title": "Trump Jr 'had amnesia during testimony'", 
+            "url": "http://www.bbc.co.uk/news/world-us-canada-42259252", 
+            "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/102FD/production/_99110366_gettyimages-874578274.jpg"
+        }
+    ], 
+    "status": "ok"
+}
